@@ -1,0 +1,24 @@
+# Visual Studio files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.aps
+*.pch
+*.ipch
+*.tlog
+*.log
+*.obj
+*.iobj
+*.ipdb
+*.ilk
+*.pdb
+*.idb
+*.res
+*.lastbuildstate
+
+# Reports (.docx / .doc should not be in git)
+*.docx
+*.doc
+*.pdf
